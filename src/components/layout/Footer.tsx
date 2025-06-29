@@ -1,6 +1,6 @@
 
 import { Link } from "react-router-dom";
-import { MapPin, Mail, Clock, Plus } from "lucide-react";
+import { MapPin, Mail, Clock } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -10,8 +10,12 @@ const Footer = () => {
           {/* Logo & Description */}
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
-                <Plus className="h-6 w-6 text-white rotate-45" />
+              <div className="w-12 h-12 flex items-center justify-center">
+                <img 
+                  src="/lovable-uploads/45273ce9-dc46-449a-a94a-abed3f9f242e.png" 
+                  alt="Logo Masjid Al Muhajirin"
+                  className="w-full h-full object-contain brightness-0 invert"
+                />
               </div>
               <div>
                 <h3 className="text-lg font-bold">Masjid Al Muhajirin</h3>
