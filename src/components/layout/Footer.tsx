@@ -48,7 +48,8 @@ const Footer = () => {
                 <MapPin className="h-4 w-4 mt-1 text-emerald-300" />
                 <span className="text-emerald-200 text-sm">
                   Perumahan Puri Husada Agung<br />
-                  Jl. Husada Raya No. 15, Makassar
+                  Kec. Gunung Sindur, Kab. Bogor<br />
+                  Jawa Barat
                 </span>
               </li>
               <li className="flex items-center gap-2">
