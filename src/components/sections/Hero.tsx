@@ -8,7 +8,7 @@ const Hero = () => {
 			<div
 				className="absolute inset-0 bg-cover bg-center bg-no-repeat"
 				style={{
-					backgroundImage: `linear-gradient(rgba(16, 185, 129, 0.8), rgba(5, 150, 105, 0.9)), url('https://images.unsplash.com/photo-1466442929976-97f336a657be?w=1920&h=1080&fit=crop')`,
+					backgroundImage: `linear-gradient(rgba(16, 185, 129, 0.8), rgba(5, 150, 105, 0.9)), url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiHC1PC9O4EVeVdl9U1mAqiU0h0nvxeglpqONZs4y7j_NmAmLe6hHoJxvxcDgGMTPq2Z-EFXWpWipsMQGEk_jVFE9VPC9IzwfjsP9UA8BuSJWbaRcKySrX1hUxN-oLFkaHI5H1zlOjed0LSH7Bbjv6IrWqHOwHsaIBJNhhBJIh9herEB56o8J3Jk40A/s560/png_20220828_063520_0000_compress59.jpg')`,
 				}}
 			/>
 
